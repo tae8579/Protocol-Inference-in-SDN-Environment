@@ -17,16 +17,16 @@ This software constructs SDN environment and inferences protocol state from unkn
 > Install Mininet & Floodlight
   1. Install Mininet refer to `https://github.com/mininet/mininet`
   2. Install Floodlight refer to `https://github.com/floodlight/floodlight`
+  3. Run `mininet` and `floodlight`
   
 > Constructs SDN Environment through `Topology/topology.py`
   1. Run `Python topology.py`
   
 > Routing Using SDN Controller through `SDN Controller/Control/flow_contol`  
-  1. Run `Python flow_contol.py` in Mininet
+  1. Run `Python flow_contol.py` in mininet
   
 > Start Video Streaming Service through `Service/Video Streaming/client.py, server.py`  
-  1. Run `Python server.py` in Mininet
-  2. Run `Python client.py` in Mininet
+  1. Run `Python server.py` in mininet
+  2. Run `Python client.py` in mininet
   
 > We are working on Protocol Inference.. :)
-  
