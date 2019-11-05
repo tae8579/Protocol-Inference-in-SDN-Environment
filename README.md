@@ -28,5 +28,5 @@ This software constructs SDN environment and inferences protocol state from unkn
   1. Run `Python server.py` in Mininet
   2. Run `Python client.py` in Mininet
   
-> Protocol Inference (Working on it!!)
+> We are working on Protocol Inference.. :(
   
